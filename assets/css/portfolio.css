@@ -1,0 +1,33 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    border: red;
+       background: #ffffff;
+       margin: 0;
+       margin-top: 0;
+       padding: 20px;
+ }
+
+
+
+ul {
+    list-style-type: none;
+    margin: 20px;
+    padding: 20px;
+    float: right;
+    margin-right: 350px;
+
+
+}
+
+h1 {margin-left: 100px;
+}
+
+li {
+    display: inline;
+}
+  
+  
