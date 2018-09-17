@@ -1,15 +1,12 @@
 
-* {
-    box-sizing: border-box;
-    text-align: center;
+
+  h1 {
+      background: #ffffff;
+      margin: 0;
+      padding: 20px
   }
 
 
-
-body {
-    background-image: url("/assets/images/gravel.png");
-    background-color: #f8f8f8
-}
 
 h2 {
     text-align: left;
@@ -22,10 +19,12 @@ h2 {
 div {
     background-color:#ffffff;
     width: 960px;
-    border: 25px solid green;
+    border: 1px solid #dddddd;
     padding: 25px;
     margin: auto;
     width: 50%;
     text-align: center;
+    margin-top: 40px;
+    
 
 }
