@@ -1,0 +1,31 @@
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+
+
+body {
+    background-image: url("/assets/images/gravel.png");
+    background-color: #f8f8f8
+}
+
+h2 {
+    text-align: left;
+    color: #4aaaa5;
+}
+
+ img {
+     float: left;
+ }
+div {
+    background-color:#ffffff;
+    width: 960px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+
+}
