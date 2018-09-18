@@ -7,7 +7,7 @@
 
 ul {
     list-style-type: none;
-    margin: 20px;
+    margin: 11px;
     padding: 20px;
     float: right;
     position: fixed;
@@ -18,23 +18,28 @@ ul {
 
 }
 
-#logo {
+h1 {
     position: fixed;
     margin-left: -480px;
     left: 50%;
-    margin-top: -5px;
+    margin-top: -7px;
+    padding: 10px;
+    background: #4aaaa5;
+    color: white;
 }
 
 li {
     display: inline;
+    padding: 10px;
+    color: #4aaaa5
 }
   
   .header {
      position: relative;
         background: #ffffff;
-        margin: 0;
-        margin-top: 0;
+        margin: -10px;
         padding: 40px;
+        border-bottom: #cccccc solid
   }
 
 
@@ -42,10 +47,15 @@ li {
 h2 {
     text-align: left;
     color: #4aaaa5;
+    border-bottom: #dddddd solid;
+    padding: 10px;
+    margin-top: -12px;
 }
 
- img {
+ #profile {
      float: left;
+     height: 200px;
+    width: 150px;
  }
 
 div {
@@ -68,5 +78,6 @@ div {
         background-color: #666666;
         border-top: #4aaaa5 solid;
         text-align: center;
+        
         
        }
