@@ -18,6 +18,10 @@ ul {
 
 }
 
+a {
+    color: #cccccc
+}
+
 h1 {
     position: fixed;
     margin-left: -480px;
@@ -54,8 +58,8 @@ h2 {
 
  #profile {
      float: left;
-     height: 200px;
-    width: 150px;
+     height: 150px;
+    width: 170px;
  }
 
 div {

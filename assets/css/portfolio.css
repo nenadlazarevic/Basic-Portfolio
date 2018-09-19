@@ -14,8 +14,10 @@ ul {
     top: 20px;
     right: 50%;
     margin-right:-350px;
+}
 
-
+a {
+    color: #cccccc
 }
 
 h1 {
@@ -31,7 +33,6 @@ h1 {
 li {
     display: inline;
     padding: 10px;
-    background: #4aaaa5;
 }
   
   .header {
@@ -65,6 +66,10 @@ li {
 
     .photos {
         float: left;
+        padding: 10px;
+        size: 200px 200px;
+    }
+    img {
         padding: 20px;
     }
   
